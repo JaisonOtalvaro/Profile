@@ -25,9 +25,6 @@
 <h2>Projects</h2>
 <a href="https://www.protdentales.com">Sitio web Protdentales</a><br><br>
 <a href="https://www.protdentales.com"><img width="200" alt="Protdentales" src="https://raw.githubusercontent.com/JaisonOtalvaro/JaisonOtalvaro/main/logo.png"></a><br><br><br>
-<a href="https://www.yuliallis.com">Yuliallis online shop</a> (Test project)<br><br>
-<a href="https://www.yuliallis.com"><img width="200" alt="yuliallis shop" src="https://raw.githubusercontent.com/JaisonOtalvaro/JaisonOtalvaro/main/yuliallis.png"></a><br><br>
-
 
 
 
